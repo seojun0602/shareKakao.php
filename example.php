@@ -5,6 +5,7 @@ $client = new Client();
 $cred = new Cred();
 알아서 Cred 클래스 잘 구현하세요.
 본 기기의 Authorization임.
+IrisPHP에 있는거 활용하면 됨..
 $client->setCred($cred);
 */
 
